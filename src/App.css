@@ -1,0 +1,12 @@
+#root{
+  width:100%;
+}
+
+.card{
+  background: linear-gradient(135deg, #222933 0%, #171e26 100%);
+  max-width:410px;
+}
+
+.icon-star{
+  background: #252f39;
+}
